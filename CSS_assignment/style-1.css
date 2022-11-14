@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #fff;
+    font-size: 1rem;
+}
+
+.container {
+    background: #fff;
+    color: #333;
+    padding: 1.5rem;
+    border-radius: 6px;
+    box-shadow: 0 4px 15px rgba(4,60,119,0.211);
+}
+.header {
+    padding: 1.5rem;
+    border-radius: 6px;
+    box-shadow: 0 4px 15px rgba(4,60,119,0.211);
+}
+
+.first {
+    color: green;
+}
+
+.first-p {
+    color: green;
+    font-size: 14px;
+}
+
+.second {
+    color: red;
+}
+
+
+.second-p {
+    color: red;
+    font-size: 14px;
+}
+
+.third {
+    color: blue;
+}
+.list {
+    color: blue;
+    font-size: 14px;
+}
